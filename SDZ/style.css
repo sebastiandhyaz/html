@@ -1,0 +1,13 @@
+.main{
+    gap: 20px 10px;
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.box{
+    background-color: aqua;
+    width: 40%;
+    height: 200vh;
+}
